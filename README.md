@@ -1,6 +1,6 @@
 # Python Detection Engine: Authentication Log Analyzer
 
-## 🛡️ Project Overview
+## Project Overview
 This project is a lightweight **Detection Engine** designed to automate the analysis of authentication logs. It simulates the core logic of a SIEM (Security Information and Event Management) system by parsing login metadata to identify potential brute-force attacks and segmenting traffic based on network origin.
 
 
